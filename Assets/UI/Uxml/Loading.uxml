@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/index.uss?fileID=7433441132597879392&amp;guid=269a5a470695f2d4e846319cb71d56c8&amp;type=3#index" />
+    <ui:VisualElement name="Panel" class="panel">
+        <ui:ProgressBar value="10.9" usage-hints="None" style="width: 100%; margin-left: auto; margin-right: auto; margin-top: auto; margin-bottom: auto; padding-left: 50px; padding-right: 50px; padding-top: 50px; padding-bottom: 50px;" />
+    </ui:VisualElement>
+</ui:UXML>

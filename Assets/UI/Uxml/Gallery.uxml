@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Uss/index.uss?fileID=7433441132597879392&amp;guid=269a5a470695f2d4e846319cb71d56c8&amp;type=3#index" />
+    <ui:VisualElement name="Panel" class="panel" style="align-items: center; padding-left: 20px; padding-right: 20px; padding-top: 20px; padding-bottom: 20px; border-top-left-radius: 0; border-bottom-left-radius: 0; border-top-right-radius: 0; border-bottom-right-radius: 0; height: 100%; width: 100%;">
+        <GridView margin="20" scroll-deceleration-rate="0.135" constraint-count="2" scroll-initial-velocity-multiplier="2" scroll-velocity-multiplier="2" deceleration-rate="0.0005" velocity-multiplier="10" style="background-color: rgb(155, 235, 241); width: 100%; height: 100%; overflow: hidden;" />
+    </ui:VisualElement>
+</ui:UXML>

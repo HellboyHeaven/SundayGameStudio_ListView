@@ -1,0 +1,3 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="Element" style="flex-grow: 0; background-color: rgb(255, 124, 124); width: 90%; height: 90%; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; margin-left: auto; margin-right: auto; margin-top: auto; margin-bottom: auto; flex-basis: auto; background-image: none; -unity-background-scale-mode: stretch-to-fill;" />
+</ui:UXML>

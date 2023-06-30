@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/index.uss?fileID=7433441132597879392&amp;guid=269a5a470695f2d4e846319cb71d56c8&amp;type=3#index" />
+    <ui:VisualElement name="Panel" class="panel" style="margin: auto; background-color: rgb(195, 250, 242); max-height: none; width: 100%; height: 100%; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; font-size: 80%; -unity-text-align: upper-center; justify-content: center; align-items: center; align-self: center; flex-direction: column; flex-basis: auto; flex-grow: 0; flex-shrink: 1;">
+        <ui:Button display-tooltip-when-elided="true" name="Gallery" style="margin: auto; padding: 0 0 20% 20%; font-size: 0; border-top-left-radius: 20px; border-bottom-left-radius: 20px; border-top-right-radius: 20px; border-bottom-right-radius: 20px; background-color: rgb(51, 192, 221); height: 500px; width: 200px; -unity-text-align: middle-center; justify-content: center; align-items: stretch; flex-direction: column; padding-left: 20px; padding-top: 20px; -unity-font-style: bold; padding-right: 20px; padding-bottom: 20px; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; flex-shrink: 0.2; flex-grow: 0.2; align-self: center; flex-basis: 20%; color: rgb(255, 255, 255);">
+            <LabelAutoFit tabindex="-1" text="Галлерея" style="width: 100%; height: 100%;" />
+        </ui:Button>
+    </ui:VisualElement>
+</ui:UXML>
